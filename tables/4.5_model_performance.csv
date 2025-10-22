@@ -1,0 +1,8 @@
+Model / Baseline,MAE,MAPE,RMSE
+Historical mean,1.891,9.62%,2.399
+Mean of the previous hour,3.022,15.38%,3.54
+Last known value,3.701,18.99%,4.174
+Naïve seasonal forecast,2.621,14.57%,3.29
+ARIMA,1.335,6.72%,1.793
+SARIMA,1.313,6.93%,1.48
+LSTM,0.048,0.26%,0.065

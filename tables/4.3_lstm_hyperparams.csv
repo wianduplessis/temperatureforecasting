@@ -1,0 +1,7 @@
+Hyperparameter,Range / Options
+Number of layers,1 to 10
+Neurons per layer,1 to 500
+Dropout usage,True / False
+Dropout rate,0.1 to 0.5
+Learning rate,0.000001 to 0.1
+Input timesteps,10 to 200

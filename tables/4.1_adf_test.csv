@@ -1,0 +1,4 @@
+﻿Variable,ADF Test Statistic,p-value,Level of significance,Critical value
+Temperature,-2.62,0.089,1% Critical Value,-3.431
+,,,5% Critical Value,-2.862
+,,,10% Critical Value,-2.567

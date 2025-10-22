@@ -1,0 +1,7 @@
+Hyperparameter,Value
+Number of layers,2
+Neurons per layer,"28, 36"
+Dropout usage,"False, True"
+Dropout rate,"0.264, 0.474"
+Learning rate,0.053951
+Input timesteps,26
